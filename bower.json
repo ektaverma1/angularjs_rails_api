@@ -5,6 +5,7 @@
       "angular": "latest",
       "angular-route": "latest",
       "angular-resource": "latest",
+      "lodash": "latest",
       "todomvc-common": "latest"
     }
   },
